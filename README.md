@@ -13,5 +13,5 @@
   ![image](https://user-images.githubusercontent.com/69622147/177708249-c4d94b0a-66e5-4e85-9d50-a5475fbda924.png)
 
 3. 데이터 이미지 학습 및 테스트
-
+    - 모델: FasterRCNN
   
